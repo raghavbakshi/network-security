@@ -1,0 +1,10 @@
+2021-11-24/16:33:31		data scale successful
+2021-11-24/16:33:31		data pca successful
+2021-11-24/16:33:31		dataframe successful
+2021-11-29/15:33:28		Entered the save_model method of the File_Operation class
+2021-11-29/15:33:28		Model File scaler saved. Exited the save_model method of the Model_Finder class
+2021-11-29/15:33:28		Entered the save_model method of the File_Operation class
+2021-11-29/15:33:28		Model File pca saved. Exited the save_model method of the Model_Finder class
+2021-11-29/15:33:26		data scale successful
+2021-11-29/15:33:28		data pca successful
+2021-11-29/15:33:28		dataframe successful

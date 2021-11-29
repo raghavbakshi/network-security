@@ -1,0 +1,76 @@
+2021-11-29/16:05:28		Start of Prediction
+2021-11-29/16:05:28		Entered the get_data method of the Get_data class
+2021-11-29/16:05:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-11-29/16:05:28		Entered the remove_columns method of the Preprocessor class
+2021-11-29/16:05:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-11-29/16:05:28		Entered the load_model method of the File_Operation class
+2021-11-29/16:05:28		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:05:28		Entered the load_model method of the File_Operation class
+2021-11-29/16:05:28		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:05:28		Entered the load_model method of the File_Operation class
+2021-11-29/16:05:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:05:28		Error occurred while running the prediction!! Error:: 'numpy.ndarray' object has no attribute 'drop'
+2021-11-29/16:06:19		Start of Prediction
+2021-11-29/16:06:19		Entered the get_data method of the Get_data class
+2021-11-29/16:06:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-11-29/16:06:19		Entered the remove_columns method of the Preprocessor class
+2021-11-29/16:06:19		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-11-29/16:06:19		Entered the load_model method of the File_Operation class
+2021-11-29/16:06:19		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:06:19		Entered the load_model method of the File_Operation class
+2021-11-29/16:06:19		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:06:19		Entered the load_model method of the File_Operation class
+2021-11-29/16:06:19		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:06:19		Error occurred while running the prediction!! Error:: "['serial'] not found in axis"
+2021-11-29/16:07:41		Start of Prediction
+2021-11-29/16:07:41		Entered the get_data method of the Get_data class
+2021-11-29/16:07:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-11-29/16:07:41		Entered the remove_columns method of the Preprocessor class
+2021-11-29/16:07:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-11-29/16:07:41		Entered the load_model method of the File_Operation class
+2021-11-29/16:07:41		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:07:41		Entered the load_model method of the File_Operation class
+2021-11-29/16:07:41		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:07:41		Entered the load_model method of the File_Operation class
+2021-11-29/16:07:41		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:07:41		Error occurred while running the prediction!! Error:: 'serial'
+2021-11-29/16:10:21		Start of Prediction
+2021-11-29/16:10:21		Entered the get_data method of the Get_data class
+2021-11-29/16:10:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-11-29/16:10:21		Entered the remove_columns method of the Preprocessor class
+2021-11-29/16:10:21		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-11-29/16:10:21		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:21		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:21		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:21		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:21		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:21		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:21		Entered the find_correct_model_file method of the File_Operation class
+2021-11-29/16:10:21		Exited the find_correct_model_file method of the Model_Finder class.
+2021-11-29/16:10:21		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:21		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:21		Error occurred while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Output_File/Predictions.csv'
+2021-11-29/16:10:58		Start of Prediction
+2021-11-29/16:10:58		Entered the get_data method of the Get_data class
+2021-11-29/16:10:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-11-29/16:10:58		Entered the remove_columns method of the Preprocessor class
+2021-11-29/16:10:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-11-29/16:10:58		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:58		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:58		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:58		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:58		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:59		Entered the find_correct_model_file method of the File_Operation class
+2021-11-29/16:10:59		Exited the find_correct_model_file method of the Model_Finder class.
+2021-11-29/16:10:59		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:59		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:59		Entered the find_correct_model_file method of the File_Operation class
+2021-11-29/16:10:59		Exited the find_correct_model_file method of the Model_Finder class.
+2021-11-29/16:10:59		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:59		Model File random_forest1 loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:59		Entered the find_correct_model_file method of the File_Operation class
+2021-11-29/16:10:59		Exited the find_correct_model_file method of the Model_Finder class.
+2021-11-29/16:10:59		Entered the load_model method of the File_Operation class
+2021-11-29/16:10:59		Model File random_forest0 loaded. Exited the load_model method of the Model_Finder class
+2021-11-29/16:10:59		End of Prediction
