@@ -1,0 +1,10 @@
+2021-12-02/19:32:12		Start of Validation for Training
+2021-12-02/19:32:13		Name validation complete
+2021-12-02/19:32:13		Column information extracted
+2021-12-02/19:32:16		Column length validated
+2021-12-02/19:32:16		missing values handled
+2021-12-02/19:32:26		Connection established successfully
+2021-12-02/19:32:28		Table created successfully
+2021-12-02/19:32:28		missing values handled
+2021-12-02/19:33:24		values inserted succesfully
+2021-12-02/19:33:30		Data loaded successfully

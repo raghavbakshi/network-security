@@ -74,3 +74,27 @@
 2021-11-29/16:10:59		Entered the load_model method of the File_Operation class
 2021-11-29/16:10:59		Model File random_forest0 loaded. Exited the load_model method of the Model_Finder class
 2021-11-29/16:10:59		End of Prediction
+2021-12-02/19:33:30		Start of Prediction
+2021-12-02/19:33:30		Entered the get_data method of the Get_data class
+2021-12-02/19:33:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-12-02/19:33:30		Entered the remove_columns method of the Preprocessor class
+2021-12-02/19:33:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-12-02/19:33:30		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:30		Model File pca loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:30		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:30		Model File scaler loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:30		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:30		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:40		Entered the find_correct_model_file method of the File_Operation class
+2021-12-02/19:33:40		Exited the find_correct_model_file method of the Model_Finder class.
+2021-12-02/19:33:40		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:40		Model File XGBoost2 loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:40		Entered the find_correct_model_file method of the File_Operation class
+2021-12-02/19:33:40		Exited the find_correct_model_file method of the Model_Finder class.
+2021-12-02/19:33:40		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:40		Model File random_forest1 loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:40		Entered the find_correct_model_file method of the File_Operation class
+2021-12-02/19:33:40		Exited the find_correct_model_file method of the Model_Finder class.
+2021-12-02/19:33:40		Entered the load_model method of the File_Operation class
+2021-12-02/19:33:40		Model File random_forest0 loaded. Exited the load_model method of the Model_Finder class
+2021-12-02/19:33:40		End of Prediction
