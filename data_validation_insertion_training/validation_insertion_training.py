@@ -10,11 +10,10 @@ from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider
 
 cloud_config = {
-    'secure_connect_bundle': r'C:\Users\Dell\Downloads\secure-connect-network-security.zip'
+    'secure_connect_bundle': 'secure-connect-network-security.zip'
 }
-auth_provider = PlainTextAuthProvider('wMYGfEqsjxXldhDPlUXpiNAu',
-                                      'LLA4lR8g4bQOjrDXZQPO.IOchQublLQ4LArmJotwpSH13LhEnSkKQfBjaIwaMkEv-e6ftB,92p6yZ,'
-                                      'vZxZnoSK37OWQ.I.eUGaU7e1_3jUGUMQjltX2otmw9ZZ,7MF4A')
+auth_provider = PlainTextAuthProvider('nkRFjxeEoekFGeBtHvMDpuZu',
+                                      '_Cg.SwbGgdiC3KAj.UGHnZFkpG,cuLDjdMO_ybj,o97fyKv6kMCwZSty_IlgcPwStZ_i4XJW,CQLE4s67eX9pYXq.Hz0PswLLFnFBeUD_mHt5jfLJ-+bKRMQPBb9AWjD')
 cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
 
 
